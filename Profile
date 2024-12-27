@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Himanshu Mourya | Business Consultant</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
+    header { background: #007bff; color: #fff; padding: 20px 10px; text-align: center; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    footer { background: #333; color: #fff; text-align: center; padding: 10px; }
+    h1, h2 { color: #007bff; }
+    nav { text-align: center; padding: 10px; }
+    nav a { margin: 0 10px; color: #007bff; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Himanshu Mourya</h1>
+  <p>Business Consulting | Technology Risk Consultant</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#expertise">Expertise</a>
+  <a href="#experience">Experience</a>
+  <a href="#education">Education</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>Business Consultant with over 4 years of experience in consulting, business analysis, and project management. Proven track record in collaborating with cross-functional teams, optimizing processes, and delivering strategic solutions in global organizations like EY and Capgemini.</p>
+</section>
+
+<section id="expertise">
+  <h2>Areas of Expertise</h2>
+  <ul>
+    <li>Project Management (Agile, Scrum, Waterfall)</li>
+    <li>Software Asset Management</li>
+    <li>Oracle ERP, Tableau, Power BI</li>
+    <li>Robotic Process Automation (UiPath)</li>
+    <li>Stakeholder Engagement & Business Analysis</li>
+  </ul>
+</section>
+
+<section id="experience">
+  <h2>Professional Experience</h2>
+  <h3>Ernst & Young LLP</h3>
+  <p><strong>Business Consultant</strong> (May 2023 – Present)</p>
+  <ul>
+    <li>Led development of two key modules for a global ride-sharing app, improving user experience and efficiency.</li>
+    <li>Managed installation of EY's SAM tool on 8,000+ endpoints and 900+ servers.</li>
+  </ul>
+
+  <h3>Capgemini India Pvt. Ltd.</h3>
+  <p><strong>Senior Analyst</strong> (Nov 2018 – June 2021)</p>
+  <ul>
+    <li>Enhanced processes and automated daily tasks, saving 365 man-hours annually.</li>
+  </ul>
+</section>
+
+<section id="education">
+  <h2>Education</h2>
+  <ul>
+    <li><strong>PGDM (Marketing / IT):</strong> T.A Pai Management Institute (2021–2023)</li>
+    <li><strong>B.E. (IT):</strong> Acropolis Institute of Technology and Research (2014–2018)</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:himanshumourya1@outlook.com">himanshumourya1@outlook.com</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/himanshumourya2/" target="_blank">linkedin.com/in/himanshumourya2</a></p>
+</section>
+
+<footer>
+  <p>© 2024 Himanshu Mourya. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
